@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2048 Game</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link your CSS file -->
+    <script src="script.js" defer></script> <!-- Link your JavaScript file -->
+</head>
+<body>
+    <div id="game-container">
+        <h1>2048</h1>
+
+        <!-- Score Display -->
+        <div>
+            <span id="score">Score: 0</span>
+            <button id="reset-button">Reset Game</button>
+        </div>
+        
+        <!-- Reset Button (Optional) -->
+        
+        
+        <!-- Game Board Container -->
+        <div id="game-board">
+            <!-- Example tiles, you can generate these dynamically with JavaScript -->
+            <div class="tile" data-value="2">2</div>
+            <div class="tile" data-value="4">4</div>
+            <div class="tile" data-value="8">8</div>
+            <div class="tile" data-value="16">16</div>
+            <div class="tile" data-value="32">32</div>
+            <div class="tile" data-value="64">64</div>
+            <div class="tile" data-value="128">128</div>
+            <div class="tile" data-value="256">256</div>
+            <div class="tile" data-value="512">512</div>
+            <div class="tile" data-value="1024">1024</div>
+            <div class="tile" data-value="2048">2048</div>
+        </div>
+        
+        <p>Use the arrow keys to move the tiles.</p>
+    </div>
+</body>
+</html>
