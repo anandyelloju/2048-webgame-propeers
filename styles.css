@@ -1,0 +1,127 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #faf8ef;
+}
+
+/* Game container styling */
+#game-container {
+    text-align: center;
+}
+
+/* Game title styling */
+h1 {
+    font-size: 48px;
+    color: #776e65;
+}
+
+/* Game board container styling */
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+    gap: 10px;
+    background-color: #bbada0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Individual tile styling */
+.tile {
+    width: 100px;
+    height: 100px;
+    background-color: #cdc1b4;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #776e65;
+}
+
+/* Example tile styles based on value */
+.tile[data-value="2"] {
+    background-color: #eee4da;
+    color: #776e65;
+}
+
+.tile[data-value="4"] {
+    background-color: #ede0c8;
+    color: #776e65;
+}
+
+.tile[data-value="8"] {
+    background-color: #f2b179;
+    color: #f9f6f2;
+}
+
+.tile[data-value="16"] {
+    background-color: #f59563;
+    color: #f9f6f2;
+}
+
+.tile[data-value="32"] {
+    background-color: #f67c5f;
+    color: #f9f6f2;
+}
+
+.tile[data-value="64"] {
+    background-color: #f65e3b;
+    color: #f9f6f2;
+}
+
+.tile[data-value="128"] {
+    background-color: #edcf72;
+    color: #f9f6f2;
+}
+
+.tile[data-value="256"] {
+    background-color: #edcc61;
+    color: #f9f6f2;
+}
+
+.tile[data-value="512"] {
+    background-color: #edc850;
+    color: #f9f6f2;
+}
+
+.tile[data-value="1024"] {
+    background-color: #edc53f;
+    color: #f9f6f2;
+}
+
+.tile[data-value="2048"] {
+    background-color: #edc22e;
+    color: #f9f6f2;
+}
+
+/* Score display styling */
+#score {
+    font-size: 30px;
+    margin-right: 20px;
+    color: #776e65;
+    padding: 32px;
+}
+
+/* Reset button styling (optional) */
+#reset-button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #8f7a66;
+    color: #f9f6f2;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#reset-button:hover {
+    background-color: #9c8572;
+}
