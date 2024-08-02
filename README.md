@@ -11,12 +11,11 @@ A web-based implementation of the classic 2048 game, built using HTML, CSS, and 
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![GameUI](gameUI.png)
-
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
