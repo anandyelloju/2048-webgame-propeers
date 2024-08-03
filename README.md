@@ -15,7 +15,7 @@ A web-based implementation of the classic 2048 game, built using HTML, CSS, and 
 ## Screenshots
 
 ![GameUI](gameUI.png)
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -28,7 +28,7 @@ To set up this project locally, follow these steps:
   cd 2048-webgame
   ```
 3. Open the '**index.html**' file in your web browser to view the portfolio.
-
+<!--
 ## Usage
 
 - Use the arrow keys on your keyboard to move the tiles.
