@@ -28,13 +28,13 @@ To set up this project locally, follow these steps:
   cd 2048-webgame
   ```
 3. Open the '**index.html**' file in your web browser to view the portfolio.
-<!--
+
 ## Usage
 
 - Use the arrow keys on your keyboard to move the tiles.
 - Combine tiles with the same number to create larger numbered tiles.
 - Try to reach the 2048 tile to win the game.
-
+<!--
 ## Features
 
 - Play the classic 2048 game in your browser.
