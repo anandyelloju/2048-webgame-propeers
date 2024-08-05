@@ -34,13 +34,13 @@ To set up this project locally, follow these steps:
 - Use the arrow keys on your keyboard to move the tiles.
 - Combine tiles with the same number to create larger numbered tiles.
 - Try to reach the 2048 tile to win the game.
-<!--
+
 ## Features
 
 - Play the classic 2048 game in your browser.
 - Score tracking and Reset button to restart the game.
 - Responsive design for various screen sizes, Smooth animations, and transitions
-
+<!--
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
