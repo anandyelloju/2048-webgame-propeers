@@ -40,7 +40,7 @@ To set up this project locally, follow these steps:
 - Play the classic 2048 game in your browser.
 - Score tracking and Reset button to restart the game.
 - Responsive design for various screen sizes, Smooth animations, and transitions
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
@@ -48,7 +48,7 @@ To set up this project locally, follow these steps:
 - **Javascript:** Scripting language for make web pages interactive.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
