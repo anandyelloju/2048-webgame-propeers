@@ -48,11 +48,11 @@ To set up this project locally, follow these steps:
 - **Javascript:** Scripting language for make web pages interactive.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - Inspired by the original 2048 game by Gabriele Cirulli.
