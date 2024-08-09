@@ -57,8 +57,7 @@ Contributions are always welcome! - If you have suggestions or improvements.
 
 - Inspired by the original 2048 game by Gabriele Cirulli.
 - Developed as part of a Propeer course with guidance from ChatGPT.
-<!--
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/2048-webgame/blob/main/LICENSE) file for details.
--->
