@@ -1,5 +1,5 @@
 # 2048 Game
-A web-based implementation of the classic 2048 game, built using HTML, CSS, and JavaScript as part of a JS Developer roadmap on the ProPeer. Slide and combine tiles to reach the 2048 tile!
+A web-based implementation of the classic 2048 game, built using HTML, CSS, and JavaScript as part of a JS Developer roadmap on the ProPeers. Slide and combine tiles to reach the 2048 tile!
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@ Contributions are always welcome! - If you have suggestions or improvements.
 ## Credits
 
 - Inspired by the original 2048 game by Gabriele Cirulli.
-- Developed as part of a Propeer course with guidance from ChatGPT.
+- Developed as part of a ProPeers course with guidance from ChatGPT.
 
 ## License
 
